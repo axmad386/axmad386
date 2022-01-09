@@ -13,13 +13,13 @@ Hi I am fullstack web developer from Pekalongan, Indonesia.
 
 ## Full-stack
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=lunox&hide_border=true&theme=dark)](https://github.com/kodepintar/lunox)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=lunox-framework&hide_border=true&theme=dark)](https://github.com/kodepintar/lunox-framework)]
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=lunox-framework&hide_border=true&theme=dark)](https://github.com/kodepintar/lunox-framework)
 
 ## Back-end
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=laravel-rajaongkir&hide_border=true&theme=dark)](https://github.com/kodepintar/larel-rajaongkir)]
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=laravel-rajaongkir&hide_border=true&theme=dark)](https://github.com/kodepintar/larel-rajaongkir)
 
 ## Front-end
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=colorful-quran&hide_border=true&theme=dark)](https://github.com/kodepintar/colorful-quran)]
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=colorful-quran&hide_border=true&theme=dark)](https://github.com/kodepintar/colorful-quran)
 
 # Technologies
 ![TypeScript](https://img.shields.io/badge/typescript-%234287f5.svg?style=for-the-badge&logo=typescript&logoColor=white)
