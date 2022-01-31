@@ -12,15 +12,15 @@ Hi I am fullstack web developer from Pekalongan, Indonesia.
 # Projects
 
 ## Full-stack
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=lunox&hide_border=true&theme=dark)](https://github.com/kodepintar/lunox)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=lunox-framework&hide_border=true&theme=dark)](https://github.com/kodepintar/lunox-framework)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=lunox&hide_border=true&theme=dark)](https://github.com/kodepandai/lunox)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=lunox-framework&hide_border=true&theme=dark)](https://github.com/kodepandai/lunox-framework)
 
 ## Back-end
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=laravel-rajaongkir&hide_border=true&theme=dark)](https://github.com/kodepintar/laravel-rajaongkir)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=napim&hide_border=true&theme=dark)](https://github.com/kodepintar/napim)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=laravel-rajaongkir&hide_border=true&theme=dark)](https://github.com/kodepandai/laravel-rajaongkir)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=napim&hide_border=true&theme=dark)](https://github.com/kodepandai/napim)
 
 ## Front-end
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepintar&repo=colorful-quran&hide_border=true&theme=dark)](https://github.com/kodepintar/colorful-quran)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=colorful-quran&hide_border=true&theme=dark)](https://github.com/kodepandai/colorful-quran)
 
 # Technologies
 ![TypeScript](https://img.shields.io/badge/typescript-%234287f5.svg?style=for-the-badge&logo=typescript&logoColor=white)
