@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Hi I am fullstack web developer from Pekalongan, Indonesia.
-1 Million IQ, Love Programming, Phyiscs, Musics, and Games
+I am fullstack web developer from Pekalongan, Indonesia (but live at Semarang).
+I have 1 Million IQ, Love Programming, Phyiscs, Musics, and Games
 
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=axmad386&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
