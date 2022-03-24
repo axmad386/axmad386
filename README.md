@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am fullstack web developer from Pekalongan, Indonesia (but live at Semarang).
-I have 1 Million IQ, Love Programming, Phyiscs, Musics, and Games
+1 Million IQ, Love Programming, Phyiscs, Musics, and Games
 
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=axmad386&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
@@ -23,6 +23,7 @@ I have 1 Million IQ, Love Programming, Phyiscs, Musics, and Games
 [![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=colorful-quran&hide_border=true&theme=dark)](https://github.com/kodepandai/colorful-quran)
 
 # Technologies
+![Lunox](https://img.shields.io/badge/lunox-%2335495e.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTAyIiBoZWlnaHQ9IjE0NiIgdmlld0JveD0iMCAwIDEwMiAxNDYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTI5IDI4LjVMMCAxMkwyNC41IDBMNTEuNSAxNkwyOSAyOC41WiIgZmlsbD0iI0YyRDNBNCIvPjxwYXRoIGQ9Ik0wIDExMFYxMkwyOSAyOC41VjkyLjVMNTggMTEwVjE0NkwwIDExMFoiIGZpbGw9IiNGQ0JFNjIiLz48cGF0aCBkPSJNNTEuNSA4MFYxNkwyOSAyOC41VjkyLjVMNTEuNSA4MFoiIGZpbGw9IiNGQ0QxNjIiLz48cGF0aCBkPSJNNzEgNjlMMjkgOTIuNUw1OCAxMTBMOTkgODZMNzEgNjlaIiBmaWxsPSIjQzRDNEM0Ii8%2BPHBhdGggZD0iTTEwMS41IDg0TDU4IDExMFYxNDUuNUwxMDEuNSAxMTRWODRaIiBmaWxsPSIjMjkyOTI5Ii8%2BPHBhdGggZD0iTTgwIDk3TDUxLjUgODBWMTZMODAgMzIuNVY5N1oiIGZpbGw9ImJsYWNrIi8%2BPHBhdGggZD0iTTEwMS41IDg0TDgwIDk3VjMyLjVMMTAxLjUgMTkuNVY4NFoiIGZpbGw9IiMyOTI5MjkiLz48cGF0aCBkPSJNNzIuNSA1TDEwMS41IDE5LjVMODAgMzIuNUw1MS41IDE2TDcyLjUgNVoiIGZpbGw9IiNDNEM0QzQiLz48L3N2Zz4%3D)
 ![TypeScript](https://img.shields.io/badge/typescript-%234287f5.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Php](https://img.shields.io/badge/php-%233e5487.svg?style=for-the-badge&logo=php)
 ![Svelte](https://img.shields.io/badge/svelte-%2320232a.svg?style=for-the-badge&logo=svelte&logoColor=red)
