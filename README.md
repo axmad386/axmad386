@@ -1,26 +1,18 @@
 ### Hi there 👋
 
-I am fullstack web developer from Pekalongan, Indonesia (but live at Semarang).
-1 Million IQ, Love Programming, Phyiscs, Musics, and Games
+I am fullstack web developer from Central Java, Indonesia.
+1 Million IQ, Love Programming, Phyiscs, Musics, and Games. Founder of [@kodepandai](https://github.com/kodepandai).
 
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=axmad386&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=axmad386&include_all_commits=true&hide_border=true&theme=dark"/>
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axmad386&layout=compact&custom_title=Most used languages by LOCs&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
-<img width="450em"/>
-  
-# Projects
+PS. I use [neovim](https://github.com/neovim/neovim) and [programmer dvorak](https://www.kaufmann.no/roland/dvorak/) keyboard layout for daily usage. Trust me, it's blazingly fast.
 
-## Full-stack
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=lunox&hide_border=true&theme=dark)](https://github.com/kodepandai/lunox)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=lunox-framework&hide_border=true&theme=dark)](https://github.com/kodepandai/lunox-framework)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=lunox-backpack-example&hide_border=true&theme=dark)](https://github.com/kodepandai/lunox-backpack-example)
-## Back-end
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=laravel-rajaongkir&hide_border=true&theme=dark)](https://github.com/kodepandai/laravel-rajaongkir)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=napim&hide_border=true&theme=dark)](https://github.com/kodepandai/napim)
+Reach me at 
+- Twitter: [@axmad386](https://twitter.com/axmad386)
+- LinkedIn: [Akhmad Salafudin](https://www.linkedin.com/in/akhmad-salafudin-bb02a9234/)
 
-## Front-end
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kodepandai&repo=colorful-quran&hide_border=true&theme=dark)](https://github.com/kodepandai/colorful-quran)
+[![Most Used Languages](https://api.githubtrends.io/user/svg/axmad386/langs?theme=ferns&include_private=true&time_range=one_year&loc_metric=changed)](https://githubtrends.io)
+
+[![Mast Contributed Repositories](https://api.githubtrends.io/user/svg/axmad386/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=ferns)](https://githubtrends.io)
+
 
 # Technologies
 ![Lunox](https://img.shields.io/badge/lunox-%2335495e.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTAyIiBoZWlnaHQ9IjE0NiIgdmlld0JveD0iMCAwIDEwMiAxNDYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTI5IDI4LjVMMCAxMkwyNC41IDBMNTEuNSAxNkwyOSAyOC41WiIgZmlsbD0iI0YyRDNBNCIvPjxwYXRoIGQ9Ik0wIDExMFYxMkwyOSAyOC41VjkyLjVMNTggMTEwVjE0NkwwIDExMFoiIGZpbGw9IiNGQ0JFNjIiLz48cGF0aCBkPSJNNTEuNSA4MFYxNkwyOSAyOC41VjkyLjVMNTEuNSA4MFoiIGZpbGw9IiNGQ0QxNjIiLz48cGF0aCBkPSJNNzEgNjlMMjkgOTIuNUw1OCAxMTBMOTkgODZMNzEgNjlaIiBmaWxsPSIjQzRDNEM0Ii8%2BPHBhdGggZD0iTTEwMS41IDg0TDU4IDExMFYxNDUuNUwxMDEuNSAxMTRWODRaIiBmaWxsPSIjMjkyOTI5Ii8%2BPHBhdGggZD0iTTgwIDk3TDUxLjUgODBWMTZMODAgMzIuNVY5N1oiIGZpbGw9ImJsYWNrIi8%2BPHBhdGggZD0iTTEwMS41IDg0TDgwIDk3VjMyLjVMMTAxLjUgMTkuNVY4NFoiIGZpbGw9IiMyOTI5MjkiLz48cGF0aCBkPSJNNzIuNSA1TDEwMS41IDE5LjVMODAgMzIuNUw1MS41IDE2TDcyLjUgNVoiIGZpbGw9IiNDNEM0QzQiLz48L3N2Zz4%3D)
